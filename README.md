@@ -13,7 +13,7 @@ This is a learning repository where I document my journey through the K&R C book
 ## Repository Structure
 
 ```
-your-repo/
+C-Training/
 ├── chapter1/
 │   ├── exercises/        # Solutions to chapter 1 exercises
 │   │   ├── ex1-1.c
